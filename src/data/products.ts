@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Fresh Mangoes',
+    category: 'Fruits',
+    price: 2.50,
+    unit: 'per kg',
+    imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/7c54f1e6-e19c-4304-8f32-640e540ae37a/product-mangoes-n7pi2jh-1763992121154.webp',
+  },
+  {
+    id: 2,
+    name: 'Sukuma Wiki (Collard Greens)',
+    category: 'Vegetables',
+    price: 1.00,
+    unit: 'bunch',
+    imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/7c54f1e6-e19c-4304-8f32-640e540ae37a/product-sukuma-wiki-y77sr45-1763992128592.webp',
+  },
+  {
+    id: 3,
+    name: 'Maziwa Lala (Fermented Milk)',
+    category: 'Dairy',
+    price: 1.20,
+    unit: '500ml',
+    imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/7c54f1e6-e19c-4304-8f32-640e540ae37a/product-maziwa-lala-3a82rrg-1763992135332.webp',
+  },
+  {
+    id: 4,
+    name: 'Fresh Nyanya (Tomatoes)',
+    category: 'Vegetables',
+    price: 1.80,
+    unit: 'per kg',
+    imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/7c54f1e6-e19c-4304-8f32-640e540ae37a/product-nyanya-udmiy8x-1763992141949.webp',
+  },
+  {
+    id: 5,
+    name: 'Artisan Mkate (Bread)',
+    category: 'Bakery',
+    price: 3.00,
+    unit: 'loaf',
+    imageUrl: 'https://storage.googleapis.com/dala-prod-public-storage/generated-images/7c54f1e6-e19c-4304-8f32-640e540ae37a/product-mkate-9dcgaf1-1763992148269.webp',
+  },
+];
